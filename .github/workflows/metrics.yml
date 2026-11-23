@@ -28,9 +28,7 @@ jobs:
           plugin_languages: yes
           plugin_languages_sections: most-used
           plugin_languages_details: percentage, bytes-size
-          plugin_languages_limit: 8
-          plugin_languages_threshold: 1%
-          plugin_languages_ignored: html, css, jupyter notebook
+          plugin_languages_limit: 0
           plugin_languages_colors: github
           repositories_affiliations: owner, collaborator
 
